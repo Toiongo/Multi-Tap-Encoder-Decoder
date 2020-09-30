@@ -1,4 +1,4 @@
-# Multi-Tap-Encoder-Decoder
+# Multi-Tap Encoder/Decoder
 Keyboard phones multi-tap encoding/decoding.
 
 Old phones used to have layout where you'd need to press a button multiple times to get your letter or symbol.
